@@ -1,0 +1,9 @@
+streamlit 
+langchain
+langchain-community
+langchain-openai
+qdrant-client 
+python-dotenv
+pymongo
+sentence-transformers
+langchain-huggingface
